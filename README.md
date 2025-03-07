@@ -14,7 +14,7 @@ Installation
 3. Vim-plug
 > See [vim-plug](https://github.com/junegunn/vim-plug) for how to install
 4. Font
-- Install a [Nerd font](https://www.nerdfonts.com/font-downloads)
+- Install a [Nerd Font](https://www.nerdfonts.com/font-downloads)
 - Set font for terminal
   ```bash
   mkdir -p ~/.local/share/fonts
