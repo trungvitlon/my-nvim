@@ -28,7 +28,7 @@ Usage
 -----
 1. Copy file `.vimrc2` to your `.vimrc`
 > Use `:help nvim` to create `init.vim` file
-2. Copy foder `setting` to `~/.local/share/nvim`
+2. Copy folder `settings` to `~/.local/share/nvim`
 
 
 
